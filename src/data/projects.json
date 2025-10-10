@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Restuarant Page Website",
+    "imageSrc": "projects/restuarant.png",
+    "description": "A modern and responsive coffee shop landing page built using React and CSS.",
+    "skills": ["React", "JavaScript", "CSS", "HTML"],
+    "demo": "https://restaurantpage-seven.vercel.app/",
+    "source": "https://github.com/sanjananijankod-source/restaurantpage"
+  },
+  {
+    "title": "Student Dashboard Website",
+    "imageSrc": "projects/student.png",
+    "description": "A clean and responsive fitness trainer website designed with React and Tailwind CSS.",
+    "skills": ["React", "JavaScript", "CSS", "HTML", "Firebase"],
+    "demo": "https://student-dashboard-two-sigma.vercel.app/",
+    "source": "https://github.com/sanjananijankod-source/student-dashboard.git"
+  },
+  {
+    "title": "Service Marketplace App",
+    "imageSrc": "projects/service.png",
+    "description": "A service marketplace app that connects users with professionals for various services.",
+    "skills": ["React", "JavaScript", "HTML", "SQL", "Firebase"],
+    "demo": " https://service-marketplace-app.vercel.app/",
+    "source": "https://github.com/sanjananijankod-source/service-marketplace-app"
+  }
+]

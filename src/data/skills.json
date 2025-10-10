@@ -1,0 +1,42 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "SpringBoot",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/figma.png"
+  }
+]
