@@ -33,9 +33,9 @@ It includes sections for my introduction, education, projects, and contact infor
 
 | Project | Description | Live Demo | GitHub |
 |----------|--------------|-----------|--------|
-| **Coffee Shop Website** | A modern landing page for a coffee shop built with React. | [Live](https://coffee-shop-landing.netlify.app) | [Source](https://github.com/sanjananijankod/coffee-shop-website) |
-| **Fitness Trainer Website** | Responsive fitness trainer site using React and Tailwind CSS. | [Live](https://fitness-trainer.netlify.app) | [Source](https://github.com/sanjananijankod/fitness-trainer-website) |
-| **Service Marketplace App** | A web app connecting users with professionals for services. | [Live](https://service-marketplace-app.netlify.app) | [Source](https://github.com/sanjananijankod/service-marketplace-app) |
+| **Restuarant Pgae Website** | A modern landing page for a restuarant page built with React. | [Live](https://restaurantpage-seven.vercel.app/) | [Source](https://github.com/sanjananijankod-source/restaurantpage) |
+| **Student Dashboard Website** | Responsive Student Dashboard site using React and Tailwind CSS. | [Live](https://student-dashboard-two-sigma.vercel.app/) | [Source](https://github.com/sanjananijankod-source/student-dashboard.git) |
+| **Service Marketplace App** | A web app connecting users with professionals for services. | [Live](https://service-marketplace-app.vercel.app/) | [Source](https://github.com/sanjananijankod-source/service-marketplace-app) |
 
 ---
 
@@ -52,10 +52,10 @@ If you want to run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/sanjananijankod/portfolio-react.git
+git clone https://github.com/sanjananijankod/portfolio.git
 
 # Navigate to the folder
-cd portfolio-react
+cd portfolio
 
 # Install dependencies
 npm install
