@@ -22,5 +22,29 @@
     "skills": ["React", "JavaScript", "HTML", "SQL", "Firebase"],
     "demo": " https://service-marketplace-app.vercel.app/",
     "source": "https://github.com/sanjananijankod-source/service-marketplace-app"
+  },
+  {
+    "title": "Bank Management System (Java JDBC)",
+    "imageSrc": "projects/bank.png",
+    "description": "A console-based banking system using Java and JDBC with features like account creation, deposit, withdrawal, balance check, and secure transaction handling with rollback.",
+    "skills": ["Java", "JDBC", "MySQL", "OOP"],
+    "demo": "",
+    "source": "https://github.com/sanjananijankod-source/BankProject-Java-JDBC"
+  },
+  {
+    "title": "Inventory Management System (Java JDBC)",
+    "imageSrc": "projects/inventory.png",
+    "description": "A Java-based inventory management application supporting product CRUD operations, stock tracking, and database integration using JDBC.",
+    "skills": ["Java", "JDBC", "MySQL", "SQL", "OOP"],
+    "demo": "",
+    "source": "https://github.com/sanjananijankod-source/InventoryManagement-Java-JDBC"
+  },
+  {
+    "title": "Bus Reservation System (Java JDBC)",
+    "imageSrc": "projects/bus.png",
+    "description": "A simple bus reservation system built using Java and JDBC with features like bus listing, seat booking, ticket generation, and MySQL database connectivity.",
+    "skills": ["Java", "JDBC", "MySQL", "SQL"],
+    "demo": "",
+    "source": "https://github.com/sanjananijankod-source/BusReservationSimple-Java-JDBC"
   }
 ]
