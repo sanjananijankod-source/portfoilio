@@ -39,6 +39,15 @@ It includes sections for my introduction, education, projects, and contact infor
 
 ---
 
+| Project                                     | Description                                                                                                   | Live Demo | GitHub                                                                             |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------- |
+| **Bank Management System (Java JDBC)**      | Console-based app with account creation, deposit, withdrawal, and secure fund transfer using commit/rollback. | —         | [Source](https://github.com/sanjananijankod-source/BankProject-Java-JDBC)          |
+| **Inventory Management System (Java JDBC)** | Inventory CRUD system with product management and MySQL database integration.                                 | —         | [Source](https://github.com/sanjananijankod-source/InventoryManagement-Java-JDBC)  |
+| **Bus Reservation System (Java JDBC)**      | Simple bus booking program with seat availability and MySQL connectivity.                                     | —         | [Source](https://github.com/sanjananijankod-source/BusReservationSimple-Java-JDBC) |
+
+
+---
+
 ## 🧍‍♀️ About Me
 
 I’m **Sanjana Nijankod**, a passionate **Java Full Stack Developer** and **Electronics & Communication Engineering (ECE)** graduate.  
