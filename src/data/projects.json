@@ -40,11 +40,12 @@
     "source": "https://github.com/sanjananijankod-source/InventoryManagement-Java-JDBC"
   },
   {
-    "title": "Bus Reservation System (Java JDBC)",
-    "imageSrc": "projects/bus.png",
-    "description": "A simple bus reservation system built using Java and JDBC with features like bus listing, seat booking, ticket generation, and MySQL database connectivity.",
-    "skills": ["Java", "JDBC", "MySQL", "SQL"],
-    "demo": "",
-    "source": "https://github.com/sanjananijankod-source/BusReservationSimple-Java-JDBC"
-  }
+  "title": "Advanced Bus Reservation System (Java JDBC)",
+  "imageSrc": "projects/advancedbus.png",
+  "description": "An advanced console-based bus reservation system using Java and JDBC with features like user auth, route management, seat booking, ticketing, and transaction safety.",
+  "skills": ["Java", "JDBC", "MySQL", "SQL", "OOP"],
+  "demo": "",
+  "source": "https://github.com/sanjananijankod-source/AdvancedBusReservationSystem"
+}
 ]
+
