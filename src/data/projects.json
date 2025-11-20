@@ -28,7 +28,7 @@
     "imageSrc": "projects/bank.png",
     "description": "A console-based banking system using Java and JDBC with features like account creation, deposit, withdrawal, balance check, and secure transaction handling with rollback.",
     "skills": ["Java", "JDBC", "MySQL", "OOP"],
-    "demo": "",
+    "demo": "https://youtu.be/UMQWPdxX61k",
     "source": "https://github.com/sanjananijankod-source/BankProject-Java-JDBC"
   },
   {
@@ -36,7 +36,7 @@
     "imageSrc": "projects/inventory.png",
     "description": "A Java-based inventory management application supporting product CRUD operations, stock tracking, and database integration using JDBC.",
     "skills": ["Java", "JDBC", "MySQL", "SQL", "OOP"],
-    "demo": "",
+    "demo": "https://youtu.be/aWbnCUUlBCY",
     "source": "https://github.com/sanjananijankod-source/InventoryManagement-Java-JDBC"
   },
   {
@@ -44,8 +44,9 @@
   "imageSrc": "projects/advancedbus.png",
   "description": "An advanced console-based bus reservation system using Java and JDBC with features like user auth, route management, seat booking, ticketing, and transaction safety.",
   "skills": ["Java", "JDBC", "MySQL", "SQL", "OOP"],
-  "demo": "",
+  "demo": "https://youtu.be/CB7qEPk2vP4",
   "source": "https://github.com/sanjananijankod-source/AdvancedBusReservationSystem"
 }
 ]
+
 
