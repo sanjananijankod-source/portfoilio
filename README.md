@@ -41,9 +41,9 @@ It includes sections for my introduction, education, projects, and contact infor
 
 | Project                                     | Description                                                                                                   | Live Demo | GitHub                                                                             |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------- |
-| **Bank Management System (Java JDBC)**      | Console-based app with account creation, deposit, withdrawal, and secure fund transfer using commit/rollback. | —         | [Source](https://github.com/sanjananijankod-source/BankProject-Java-JDBC)          |
-| **Inventory Management System (Java JDBC)** | Inventory CRUD system with product management and MySQL database integration.                                 | —         | [Source](https://github.com/sanjananijankod-source/InventoryManagement-Java-JDBC)  |
-| **Advanced Bus Reservation System (Java JDBC)** | Advanced bus booking system with user authentication, route management, seat reservation, ticket generation, and secure MySQL transactions. | — | [Source](https://github.com/sanjananijankod-source/AdvancedBusReservationSystem) |
+| **Bank Management System (Java JDBC)**      | Console-based app with account creation, deposit, withdrawal, and secure fund transfer using commit/rollback. | https://youtu.be/UMQWPdxX61k         | [Source](https://github.com/sanjananijankod-source/BankProject-Java-JDBC)          |
+| **Inventory Management System (Java JDBC)** | Inventory CRUD system with product management and MySQL database integration.                                 | https://youtu.be/aWbnCUUlBCY         | [Source](https://github.com/sanjananijankod-source/InventoryManagement-Java-JDBC)  |
+| **Advanced Bus Reservation System (Java JDBC)** | Advanced bus booking system with user authentication, route management, seat reservation, ticket generation, and secure MySQL transactions. | https://youtu.be/CB7qEPk2vP4 | [Source](https://github.com/sanjananijankod-source/AdvancedBusReservationSystem) |
 
 ---
 
